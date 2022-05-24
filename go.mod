@@ -1,4 +1,4 @@
-module github.com/sebach1/relaygen
+module github.com/dkleissa/relaygen
 
 go 1.13
 
